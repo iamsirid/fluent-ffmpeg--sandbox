@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/iamsirid/fluent-ffmpeg--sandbox#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg-static": "^4.0.1",
     "ffprobe-static": "^3.0.0",
     "fluent-ffmpeg": "^2.1.2"
